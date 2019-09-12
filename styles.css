@@ -1,0 +1,46 @@
+html,body{
+    overflow-x: hidden;
+  }
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionLight{
+    background-color: #eceeef;
+    padding:2rem;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding:2rem;
+}
+.coolstuffwrapper{
+    margin-top:20px;
+}
+button.coolstuffbtn{
+    background-color: red;
+    display: block;
+    margin:auto;
+    color: white;
+}
+h5.modal-title{
+    margin-left:28%;
+}
+img.modal-img{
+    height:100px;
+    width:100%;
+}
+.modal-form{
+    padding:2rem;
+}
+.imgCenter{
+    display: block;
+    margin:auto;
+}
+.btnCenter{
+    display: block;
+    margin:auto;
+    margin-top:15px;
+    margin-bottom:20px;
+    width:75%;
+
+}
